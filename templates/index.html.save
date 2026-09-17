@@ -1,0 +1,211 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+biainess basics
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Bookcamo Business Bootcamp</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f7fb;
+            color: #222;
+            line-height: 1.6;
+        }
+
+        header {
+            background: #111827;
+            color: white;
+            text-align: center;
+            padding: 50px 20px;
+        }
+
+        header h1 {
+            font-size: 38px;
+            margin-bottom: 15px;
+        }
+
+        header p {
+            font-size: 18px;
+            max-width: 700px;
+            margin: auto;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .card {
+            background: white;
+            padding: 30px;
+            margin-bottom: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+        }
+
+        .card h2 {
+            margin-bottom: 15px;
+            color: #111827;
+        }
+
+        .card h3 {
+            margin-top: 20px;
+            margin-bottom: 8px;
+            color: #374151;
+        }
+
+        .card p {
+            margin-bottom: 10px;
+        }
+
+        .button {
+            display: inline-block;
+            background: #111827;
+            color: white;
+            padding: 14px 25px;
+            margin-top: 15px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .button:hover {
+            background: #000000;
+        }
+
+        .main-button {
+            background: #16a34a;
+            font-size: 18px;
+            padding: 16px 30px;
+        }
+
+        .main-button:hover {
+            background: #15803d;
+        }
+
+        .center {
+            text-align: center;
+        }
+
+        footer {
+            background: #111827;
+            color: white;
+            text-align: center;
+            padding: 25px 15px;
+            margin-top: 40px;
+        }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 30px;
+            }
+
+            header p {
+                font-size: 16px;
+            }
+
+            .card {
+                padding: 22px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Business Bootcamp</h1>
+
+        <p>
+            Learn practical business skills, start your idea,
+            build your brand, and grow with confidence.
+        </p>
+
+        <a
+            href="https://selar.com/0401410h63"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="button main-button">
+            Join the Bootcamp
+        </a>
+    </header>
+
+
+    <div class="container">
+
+        <div class="card">
+            <h2>What You Will Learn</h2>
+
+            <h3>Business Basics</h3>
+<h3>Business Basics</h3>
+<p>
+    <h2>What You Will Learn</h2>
+
+<h3>Business Basics</h3>
+<p>
+    Understand how to start a business and turn your ideas into something real.
+</p>
+
+<h3>How to Start</h3>
+<p>
+    Learn simple steps to move from having an idea to taking your first real action.
+</p>
+
+<h3>Build Your Brand</h3>
+<p>
+    Learn how to create a strong brand that people can recognize and trust.
+</p>
+
+<h3>Grow Your Business</h3>
+<p>
+    Discover practical ways to attract customers and grow your business.
+</p>
+
